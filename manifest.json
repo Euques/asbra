@@ -1,0 +1,24 @@
+{
+    "name": "Asbra",
+    "short_name" : "Asbra",
+    "start_url": "index.html?utm_source=homescreen",
+    "scope" : "./",
+    "icons": [
+        {
+            "src": "./android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+	    
+        },
+        {
+            "src": "./android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+	    
+        }
+    ],
+    "theme_color": "#D3E2E8",
+    "background_color": "#fff",
+    "display": "fullscreen",
+	"gcm_sender_id": ""
+}
